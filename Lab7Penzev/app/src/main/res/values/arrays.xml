@@ -1,0 +1,10 @@
+<!-- res/values/arrays.xml -->
+<resources>
+    <string-array name="products">
+        <item>Яблоко</item>
+        <item>Банан</item>
+        <item>Апельсин</item>
+        <item>Груша</item>
+        <item>Виноград</item>
+    </string-array>
+</resources>

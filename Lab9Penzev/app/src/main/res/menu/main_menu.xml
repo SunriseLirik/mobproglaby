@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/smallCircle"
+        android:title="Маленький круг" />
+    <item
+        android:id="@+id/mediumCircle"
+        android:title="Средний круг" />
+    <item
+        android:id="@+id/largeCircle"
+        android:title="Большой круг" />
+</menu>

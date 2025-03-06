@@ -1,0 +1,10 @@
+<!-- res/values-cs/arrays.xml -->
+<resources>
+    <string-array name="products">
+        <item>Jablko</item>
+        <item>Banán</item>
+        <item>Pomeranč</item>
+        <item>Hruška</item>
+        <item>Hroznové víno</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/moveLeft"
+        android:title="Переместить влево" />
+    <item
+        android:id="@+id/moveRight"
+        android:title="Переместить вправо" />
+</menu>

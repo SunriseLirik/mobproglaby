@@ -1,0 +1,14 @@
+<!-- res/values-cs/strings.xml -->
+<resources>
+    <string name="app_name">Registrace</string>
+    <string name="full_name">Celé jméno</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="phone">Telefonní číslo</string>
+    <string name="password">Heslo</string>
+    <string name="repeat_password">Opakování hesla</string>
+    <string name="birth_date">Datum narození</string>
+    <string name="product">Produkt</string>
+    <string name="agree">Souhlas se zpracováním osobních údajů</string>
+    <string name="register">Registrovat</string>
+</resources>
